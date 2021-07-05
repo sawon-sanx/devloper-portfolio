@@ -1,8 +1,9 @@
 body{
     font-family: 'Rubik', sans-serif;
     margin: 0px;
-    background-color: rgb(226, 222, 222);
+   
 }
+
 h1{
     font-size: 50px;
 }
@@ -20,7 +21,10 @@ span{
 section{
     height: 500px;
     padding-bottom: 150px;
+   
+   
 }
+
 .half-width{
     width:40%;
     float: left;
